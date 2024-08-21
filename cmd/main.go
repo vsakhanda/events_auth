@@ -10,6 +10,8 @@ import (
 	"os"
 )
 
+//First iteration
+
 func main() {
 
 	godotenv.Load()
